@@ -1,4 +1,4 @@
-import {Theater} from './theatre';
+import {Theater} from './Theater';
 export class Customer{
     viewMovies(){
         Theater.listMovies();
